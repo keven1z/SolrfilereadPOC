@@ -10,3 +10,4 @@ python3.6 及以上
 # 运行截图
 ![image](https://user-images.githubusercontent.com/43847458/112407628-661d5d80-8d51-11eb-8edc-59ebf4f31c9a.png)
 
+## 仅供学习
